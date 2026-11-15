@@ -67,14 +67,14 @@ alojamiento de repositorios.
 | git status | Muestra el estado actual del repositorio. |
 
 
+## Autor
 
-\## Autor
+- **Nombre:** Marcos Saenz
+- **Asignatura:** Fundamentos de Programación
+- **Fecha:** 15/11/2026
 
+## Sincronización de repositorios
 
-
-\- \*\*Nombre:\*\* Marcos Saenz
-
-\- \*\*Asignatura:\*\* Fundamentos de Programación
-
-\- \*\*Fecha:\*\* 15/11/2026
-
+Esta sección se ha añadido directamente desde GitHub
+para comprobar el funcionamiento del comando git pull
+y la sincronización entre el repositorio remoto y local.
