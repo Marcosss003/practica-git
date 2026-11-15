@@ -39,3 +39,51 @@ Este repositorio contiene la práctica de laboratorio de la asignatura Fundament
 ## Sincronización de repositorios
 
 Esta sección se ha añadido directamente desde GitHub para comprobar el funcionamiento del comando `git pull` y la sincronización entre el repositorio remoto y local.
+## Calculadora básica en C
+
+El repositorio incluye un programa desarrollado en lenguaje C
+que permite realizar operaciones aritméticas con dos números.
+
+### Funcionalidades
+
+- Suma.
+- Resta.
+- Multiplicación.
+- División.
+- Control de la división entre cero.
+
+### Compilación
+
+Para compilar el programa utilizando GCC:
+
+```bash
+gcc -Wall -Wextra main.c -o calculator.exe
+```
+
+### Ejecución
+
+```bash
+./calculator.exe
+```
+
+### Ejemplo de funcionamiento
+
+```text
+=== CALCULADORA BASICA ===
+Introduce el primer numero: 10
+Introduce el segundo numero: 5
+
+--- RESULTADOS ---
+Suma: 15
+Resta: 5
+Multiplicacion: 50
+Division: 2.00
+```
+
+### Estructura del repositorio
+
+| Archivo | Descripción |
+|---------|-------------|
+| README.md | Documentación del proyecto. |
+| main.c | Código fuente de la calculadora. |
+| .gitignore | Exclusión de archivos generados durante la compilación. |
